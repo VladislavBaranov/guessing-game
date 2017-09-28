@@ -1,5 +1,3 @@
-module.exports = GuessingGame;
-
 class GuessingGame {
     constructor() {
         this.min = 0;
